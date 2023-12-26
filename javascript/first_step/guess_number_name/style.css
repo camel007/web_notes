@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-size: 28px;
+}
+
+html{
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    font-size:18px;
+    border: #eeeeee 3px solid;
+}

@@ -1,0 +1,33 @@
+h1 {
+    font: 20px;
+    color: red
+}
+
+
+p,li{
+    color:blue;
+}
+li {
+    list-style-type:decimal;
+}
+
+.number {
+    color: orange;
+    font-weight: bold;
+}
+
+p em {
+    color:blueviolet;
+    font-size: 200%;
+}
+
+a:link{
+    color: pink;
+}
+a:visited{
+    color:green;
+}
+
+a:hover{
+    text-decoration: none;
+}
